@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9 Aug, 2021, 4:24:46 PM
+    Author     : julia
+*/
+
+
+/*      CSS Media       */
+@media screen and (max-width: 830px)
+{
+    .toggle
+    {
+        display: block;
+    }
+    #nav
+    {
+        padding: 0 0;
+    }
+    .left-ul li
+    {
+        float: none;
+        display: block;
+        text-align: center;
+    }
+    .right-ul li
+    {
+        float: none;
+        display: block;
+    }
+    .right-ul li a
+    {
+        background-color: #b5fdf5;
+    }
+    .col-3
+    {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .col-6
+    {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    #website-intro h1
+    {
+        line-height: 50px;
+    }
+    .service-heading
+    {
+        margin: 1050px 0px 0px 0px;
+    }
+}
